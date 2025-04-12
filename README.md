@@ -1,1 +1,1 @@
-# Project
+This project aims to analyze textual data (e.g., tweets, product reviews, or customer feedback) to determine the sentiment behind the text—whether it is positive and negative display the results dynamically on a dashboard.It combines Natural Language Processing (NLP) techniques with data visualization tools to provide real-time insights into public or customer opinions.
